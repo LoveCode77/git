@@ -5,6 +5,7 @@ public class Main{
         System.out.println("xiongdu shi yi ge good man!");
         System.out.println("xiongdu shi yi ge good man!");
         System.out.println("xiongdu!");
+        System.out.println("master update");
 
     }
 }
